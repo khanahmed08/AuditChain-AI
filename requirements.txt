@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+groq>=0.4.0
+cryptography>=42.0.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+plotly>=5.18.0
+pydantic>=2.0.0
